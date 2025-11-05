@@ -1,4 +1,4 @@
-
+# Hi, I'm <br> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=100&color=8742F5&background=1E27DC00&random=false&width=435&lines=Basudev+Mondal+;Problem+Solver+;Java+Developer+;Web+Developer+;Python+Developer+;Oracle+Certified+;HackerRank+Certified+;LeetCoder+;Database+Admin+;Database+Designer+)
 <h1 align="center">Hi 👋, I'm Basudev Mondal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
