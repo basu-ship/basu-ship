@@ -32,9 +32,6 @@
   <a href="https://linkedin.com/in/basudev-mondal-a9a7282b3" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" style="margin: 10px; border-radius: 50%;" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/basu-ship" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" style="margin: 10px; border-radius: 50%;" alt="GitHub"/>
-  </a>
   <a href="https://www.instagram.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50px" style="margin: 10px; border-radius: 15px;" alt="Instagram"/>
   </a>
