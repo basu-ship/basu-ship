@@ -24,35 +24,29 @@
 <table align="center">
 <tr>
 
-<!-- Left Column -->
+<!-- Left Section -->
 <td align="center" width="50%">
 
-<!-- Social Links -->
+<!-- Social Icons -->
 <p align="center">
-
-<a href="https://linkedin.com/in/basudev-mondal-a9a7282b3" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010&border_radius=25" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/basu-ship" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&border_radius=25" alt="GitHub"/>
-</a>
-
-<a href="https://www.instagram.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010&border_radius=25" alt="Instagram"/>
-</a>
-
-<a href="https://leetcode.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-F9AB00?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=101010&border_radius=25" alt="LeetCode"/>
-</a>
-
-<a href="https://www.hackerrank.com/" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=101010&border_radius=25" alt="HackerRank"/>
-</a>
-
+  <a href="https://linkedin.com/in/basudev-mondal-a9a7282b3" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" style="margin: 10px; border-radius: 50%;" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/basu-ship" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" style="margin: 10px; border-radius: 50%;" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50px" style="margin: 10px; border-radius: 15px;" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50px" style="margin: 10px; border-radius: 15px;" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="50px" style="margin: 10px; border-radius: 10px;" alt="HackerRank"/>
+  </a>
 </p>
 
-<!-- Tech Stack Icons -->
+<!-- Tech Stack -->
 <h4 align="center">💻 Tech Stack</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,mysql,nodejs,express,git,github,vscode" />
@@ -60,13 +54,14 @@
 
 </td>
 
-<!-- Right Column -->
+<!-- Right Section -->
 <td align="center" width="50%">
   <img src="https://i.pinimg.com/736x/7c/43/3e/7c433e7273948204d875ee5cdcf218ff.jpg" alt="developer at desk" width="420px" style="border-radius:20px;"/>
 </td>
 
 </tr>
 </table>
+
 
 
 ---
