@@ -2,8 +2,7 @@
 
 [![Basuedev Mondal github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=basu-ship&bg_color=0f0f0f&color=e9e2e9&line=27ce51&point=eae6e6&area=true&hide_border=true)]
 
-<h1 align="center">Hi 👋, I'm Basudev Mondal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basu-ship&label=Profile%20views&color=0e75b6&style=flat" alt="basu-ship" /> </p>
 
