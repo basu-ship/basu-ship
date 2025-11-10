@@ -88,7 +88,7 @@
 |----------|--------------|-------------|
 | [🌐 Portfolio Website](https://github.com/basu-ship/portfolio) | My personal portfolio built with React and TailwindCSS | React, Tailwind |
 | [🧮 Calculator App](https://github.com/basu-ship/calculator) | A simple yet elegant calculator using JavaScript | HTML, CSS, JS |
-| [🐍 Python Script Hub](https://github.com/basu-ship/python-scripts) | Collection of mini Python utilities | Python |
+| [ AI Student Counseling ](https://ai-counseling-chatbot.onrender.com/) | Ai counselling website is built using React and Python | Python, React , css |
 
 ---
 
