@@ -61,18 +61,7 @@
 
 
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basu-ship&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basu-ship&layout=compact&theme=tokyonight" height="165">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=basu-ship&theme=tokyonight" height="165"/>
-</p>
+>
 
 ---
 
