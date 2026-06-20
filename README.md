@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 - 🌱 I’m currently learning **React & Tailwind CSS**
-- 💬 Ask me about **JavaScript, Java, Python, React, TailwindCSS**
+- 💬 Ask me about **JavaScript, Java, Python, React, TailwindCSS, Nodejs, MongoDB, MySQL**
 - ⚡ Fun fact: I love exploring how design meets code!
 - 📫 Reach me at: **[mondalbasudev498@gmail.com](mailto:mondalbasudev498@gmail.com)**  
 
