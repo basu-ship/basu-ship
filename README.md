@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Passionate Developer | 💡 Problem Solver | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+TailwindCSS;Python+%7C+Java;Loves+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+TailwindCSS;NodeJs+%7C+ExpressJs;MongoDB+%7C+MySQL;Python+%7C+Java;Loves+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
