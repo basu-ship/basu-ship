@@ -49,10 +49,7 @@
 </table>
 >
 ---
-### 🧩 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basu-ship&bg_color=0f0f0f&color=ffffff&line=27ce51&point=00ff99&area=true&hide_border=true"/>
-</p>
+
 ---
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack |
