@@ -1,20 +1,22 @@
 <!-- Profile Header -->
 <h1 align="center">
-  Hey there 👋, I'm <span style="color:
-#8752F5">Basudev Mondal</span>
+  Hey there 👋, I'm <span style="color:#8752F5">Basudev Mondal</span>
 </h1>
 <h3 align="center">🚀 Passionate Developer | 💡 Problem Solver | 🌱 Lifelong Learner</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+TailwindCSS;NodeJs+%7C+ExpressJs;MongoDB+%7C+MySQL;Python+%7C+Java;Loves+Learning+New+Tech" alt="Typing SVG" />
 </p>
+
 ---
+
 ### 🧑‍💻 About Me
-- 🌱 I’m currently learning **React & Tailwind CSS**
-- 💬 Ask me about **JavaScript, Java, Python, React, TailwindCSS, Nodejs,ExpressJS, MongoDB, MySQL**
+- 🌱 I'm currently learning **React & Tailwind CSS**
+- 💬 Ask me about **JavaScript, Java, Python, React, TailwindCSS, Nodejs, ExpressJS, MongoDB, MySQL**
 - ⚡ Fun fact: I love exploring how design meets code!
-- 📫 Reach me at: **[mondalbasudev498@gmail.com](mailto:mondalbasudev498@gmail.com)**  
+- 📫 Reach me at: **[mondalbasudev498@gmail.com](mailto:mondalbasudev498@gmail.com)**
+
 ---
-### 🌐 Connect with Me:
+
 <h2 align="center">🌐 Connect with Me & Tech Stack ⚙️</h2>
 <table align="center">
 <tr>
@@ -47,20 +49,36 @@
 </td>
 </tr>
 </table>
->
----
 
 ---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basu-ship&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basu-ship&theme=radical&hide_border=true" width="48%" />
+</p>
+
+### 🧩 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basu-ship&bg_color=0f0f0f&color=ffffff&line=27ce51&point=00ff99&area=true&hide_border=true"/>
+</p>
+
+---
+
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [🌐 Portfolio Website](https://github.com/basu-ship/portfolio) | My personal portfolio built with React and TailwindCSS | React, Tailwind |
 | [🧮 Calculator App](https://github.com/basu-ship/calculator) | A simple yet elegant calculator using JavaScript | HTML, CSS, JS |
-| [ AI Student Counseling ](https://ai-counseling-chatbot.onrender.com/) | Ai counselling website is built using React and Python | Python, React , css |
+| [🧠 AI Student Counseling](https://ai-counseling-chatbot.onrender.com/) | AI counselling website built using React and Python | Python, React, CSS |
+
 ---
+
 ### 🧠 Quote of the Day
-> *"Code is like humor. When you have to explain it, it’s bad."* 😄  
+> *"Code is like humor. When you have to explain it, it's bad."* 😄
+
 ---
+
 ### 💜 Show some ❤️ by starring some of my repositories!
 <p align="center">
   <img src="https://raw.githubusercontent.com/kishanrajput23/kishanrajput23/main/images/footer.png" width="100%"/>
